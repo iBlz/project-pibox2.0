@@ -6,4 +6,13 @@
 
 ## Software setup
 
-#### - Hostapd with internal wifi card
+#### - Hostapd & Dnsmasq with internal wifi card
+#### - External usb wifi : random mac & monitor mode
+
+## Hardware setup
+
+#### - 10,000mAh battery
+#### - Orange pi zero with heatsink case
+#### - Battery charging pcb with led display
+#### - Double rocker switch
+#### - 4 3d printed parts
